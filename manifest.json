@@ -1,0 +1,15 @@
+{
+  "short_name": "PhotoPal",
+  "name": "PhotoPal - Your Life, Rediscovered.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/google-fonts/icons/main/angular/photo_library/materialicons/24px.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}

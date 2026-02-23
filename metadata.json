@@ -1,0 +1,7 @@
+{
+  "name": "PhotoPal",
+  "description": "A high-performance, private AI curator for massive local and cloud media archives.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
